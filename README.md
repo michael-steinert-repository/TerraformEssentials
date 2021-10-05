@@ -10,7 +10,7 @@
 ## Terraform Architecture
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/29623199/136066627-8a6a6f6c-c3dd-4df2-b60b-dfe5f7306d70.png" alt="Terraform Architecture" width="75%"/>
+    <img src="https://user-images.githubusercontent.com/29623199/136066627-8a6a6f6c-c3dd-4df2-b60b-dfe5f7306d70.png" alt="Terraform Architecture" width="100%"/>
 </P>
 
 <hr>
