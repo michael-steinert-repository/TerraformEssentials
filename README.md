@@ -27,7 +27,7 @@
 |terraform destroy|Terraform deletes all Services that was created by Terraform|
 |||
 |terraform state|---|
-terraform statelist|List Resources in the State|
+terraform state list|List Resources in the State|
 terraform state mv|Move an Item in the State|
 terraform state pull|Pull current State and output to Stdout|    
 terraform state push|Update remote State from a local State File|
