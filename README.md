@@ -21,12 +21,13 @@
 
 |Command|Description|
 |---|---|
+|__terraform__||
 |terraform init|Terraform searchs all Cloud Providers from the Configurations (Files that ends with .tf), and downloads the Plugins to interact with the Cloud APIs|
 |terraform plan|Terraform shows to see Changes that are required for current Infrastructure|
 |terraform apply|Terraform applys all Changes that are required for current Infrastructure|
 |terraform destroy|Terraform deletes all Services that was created by Terraform|
 |||
-|terraform state|---|
+|__terraform state__||
 terraform state list|List Resources in the State|
 terraform state mv|Move an Item in the State|
 terraform state pull|Pull current State and output to Stdout|    
